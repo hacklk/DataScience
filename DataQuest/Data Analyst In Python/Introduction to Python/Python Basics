@@ -44,10 +44,18 @@ print(cities)
 print(crime_rates)
 
 #7.Creating Lists With Values
-#8.Comments
-#9.Accessing Elements In A List
-#10.Retrieving The Length Of A List
-#11.Slicing Lists
-#12.Next steps
-#13.Takeaways
+crime_rates = [749, 371, 828, 503, 1379]
 
+#8.Comments
+crime_rates = [749, 371, 828, 503, 1379]
+print(crime_rates)
+
+#9.Accessing Elements In A List
+
+#10.Retrieving The Length Of A List
+
+#11.Slicing Lists
+
+#12.Next steps
+
+#13.Takeaways

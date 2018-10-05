@@ -47,15 +47,31 @@ print(crime_rates)
 crime_rates = [749, 371, 828, 503, 1379]
 
 #8.Comments
+# Bee to see
 crime_rates = [749, 371, 828, 503, 1379]
-print(crime_rates)
+print(crime_rates) # Comment after
 
 #9.Accessing Elements In A List
+cities = ["Albuquerque", "Anaheim", "Anchorage", "Arlington", "Atlanta"]
+crime_rates = [749, 371, 828, 503, 1379]
+
+anchorage_str = cities[2]
+anchorage_cr = crime_rates[2]
 
 #10.Retrieving The Length Of A List
+cities = ["Albuquerque", "Anaheim", "Anchorage", "Arlington", "Atlanta"]
+crime_rates = [749, 371, 828, 503, 1379]
+# Add your code here.
+two_sum = (len(cities) + len(crime_rates))
 
 #11.Slicing Lists
+cities = ["Albuquerque", "Anaheim", "Anchorage", "Arlington", "Atlanta"]
+crime_rates = [749, 371, 828, 503, 1379]
+cities_slice = cities[1:4]
+cr_slice = crime_rates[3:]
 
 #12.Next steps
+push the button
 
 #13.Takeaways
+Download takeaways

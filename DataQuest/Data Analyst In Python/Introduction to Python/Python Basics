@@ -1,0 +1,35 @@
+#1. Programming And Data Science
+print(1288)
+print(639)
+print(1288 + 639)
+
+#2. Arithmetic Operators
+x = (749+371+828+503+1379)/5
+print(x)
+
+#3. Variables
+albuquerque = 749
+anaheim = 371
+anchorage = 828
+arlington = 503
+atlanta = 1379
+print(anaheim)
+
+#4. Data Types
+atlanta_string = "Atlanta"
+atlanta_float = 1379.5
+
+#5. The Type Function
+atlanta_string = 'Atlanta'
+atlanta_string_type = type(atlanta_string)
+print(atlanta_string_type)
+
+#6.Using A List To Store Multiple Values
+#7.Creating Lists With Values
+#8.Comments
+#9.Accessing Elements In A List
+#10.Retrieving The Length Of A List
+#11.Slicing Lists
+#12.Next steps
+#13.Takeaways
+
